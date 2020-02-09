@@ -1,2 +1,2 @@
 # Heap_Sort
-Implementation of Heap-sort algorithm
+Implementation of Heap-Sort algorithm
